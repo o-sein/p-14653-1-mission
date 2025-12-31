@@ -6,3 +6,4 @@
 0004 : YAML 파일로 Pod 정의
 0005 : Multi-Container Pod
 0006 : Deployment 생성하기
+0007 : 스케일링 (Scaling) 적용
