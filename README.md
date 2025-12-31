@@ -5,3 +5,4 @@
 0003 : 파드 생성 및 확인
 0004 : YAML 파일로 Pod 정의
 0005 : Multi-Container Pod
+0006 : Deployment 생성하기
