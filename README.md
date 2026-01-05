@@ -8,3 +8,4 @@
 0006 : Deployment 생성하기
 0007 : 스케일링 (Scaling) 적용
 0008 : 롤링 업데이트 (Rolling Update)
+0009 : 서비스 (ClusterIP Service) 생성하기
